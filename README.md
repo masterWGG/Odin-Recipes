@@ -1,0 +1,1 @@
+A simple web page written using only HTML.
