@@ -7,7 +7,9 @@
     src: url(fonts/OpenSans-Variable.ttf);
 }
 body{
+    color: hsl(0, 0%, 95%);
     font-family: Roboto, sans-serif;
+    background-color: hsl(0, 0%, 10%);
 }
 h1, h2{
     font-family: OpenSans, sans-serif;
@@ -22,4 +24,10 @@ img{
     width: 400px;
     height: auto;
     border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}
+a:link, a:visited{
+    color: hsl(0, 0%, 95%);
 }
